@@ -23,8 +23,7 @@ Developed an intricate dashboard using Microsoft Excel to track and visualize Am
 2. Open the Excel file in Microsoft Excel.
 3. Explore the various sheets and charts.
 
-   !Dashboard Preview
-   [(https://github.com/shabnashabz/Amazon_sales_excel/blob/main/Excel_Dashboard/Exceldashboard.png)]
+    ![Dashboard Preview](https://github.com/shabnashabz/Amazon_sales_excel/blob/main/Excel_Dashboard/Exceldashboard.png)
    
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
