@@ -1,6 +1,5 @@
 # Amazon Sales Dashboard 2024
 
-!Dashboard Preview
 
 ## Description
 Developed an intricate dashboard using Microsoft Excel to track and visualize Amazon's sales data for the year 2024. The project involved analyzing large datasets to display key performance indicators such as total sales revenue, units sold, and distribution across cities and states in India. Utilized advanced Excel features like pivot tables, charts (pie chart & line graph), and conditional formatting to create an interactive tool that provides insights into product performance and market trends.
@@ -25,9 +24,7 @@ Developed an intricate dashboard using Microsoft Excel to track and visualize Am
 3. Explore the various sheets and charts.
 
    !Dashboard Preview
-
-"D:\excel_sales_dashboard\Amazon_sales_excel\Excel_Dashboard\Exceldashboard.png"
-
-
+   [(https://github.com/shabnashabz/Amazon_sales_excel/blob/main/Excel_Dashboard/Exceldashboard.png)]
+   
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
